@@ -5,6 +5,7 @@ RigViewClient is free software.
 
 1. Open the conf.ini file.
 2. Write your wallet address after [setting] wallet=
+
 ex)
 [setting]
 wallet=0xEecbfbBBD73B665861C04c25fB1264D2125021af
