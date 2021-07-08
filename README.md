@@ -20,18 +20,3 @@ wallet=0xEecbfbBBD73B665861C04c25fB1264D2125021af
 Donation ETH: 0xEecbfbBBD73B665861C04c25fB1264D2125021af
 
 Thank you.
-
-< V 1.1.1>   
-Fixed the problem that share information was displayed incorrectly in Phoenix Miner   
-
-< V 1.1.0 >
-Supported miner:
-- nsfminer
-
-< V 1.0.0 >  
-Supported Cryptocurrencies:   
-- ETH   
-
-Support miner:   
-- GMiner   
-- PhoenixMiner
