@@ -16,10 +16,10 @@ wallet=0xEecbfbBBD73B665861C04c25fB1264D2125021af
 
 ** Add --api 3333 command to batch file when running gminer (or change port number in conf.ini after entering desired port number
 
-< Supported >
-  Cryptocurrency : ETH
-  Miner : PhoenixMiner, Gminer, NSFMiner
-  OS : Windows
+< Supported >   
+  Cryptocurrency : ETH   
+  Miner : PhoenixMiner, Gminer, NSFMiner   
+  OS : Windows   
 
 Donation ETH: 0xEecbfbBBD73B665861C04c25fB1264D2125021af
 
