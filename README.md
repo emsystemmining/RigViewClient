@@ -19,7 +19,7 @@ wallet=0xEecbfbBBD73B665861C04c25fB1264D2125021af
 < Supported >   
   Cryptocurrency : ETH   
   Miner : PhoenixMiner, Gminer, NSFMiner   
-  OS : Windows   
+  OS : Windows, HiveOS
 
 Donation ETH: 0xEecbfbBBD73B665861C04c25fB1264D2125021af
 
