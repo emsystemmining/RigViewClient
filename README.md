@@ -14,7 +14,8 @@ wallet=0xEecbfbBBD73B665861C04c25fB1264D2125021af
 4. If this is the first time, press the 'S' key to full search.
 5. Go to http://www.rig-view.com and search for your wallet address.
 
-** Add --api 3333 command to batch file when running gminer (or change port number in conf.ini after entering desired port number
+** Add --api 3333 command to batch file when running GMiner (or change port number in conf.ini after entering desired port number
+** Add -cdm 1 -cdmport 3333 -hstats 2 command to batch file when running PhoenixMiner (or change port number in conf.ini after entering desired port number
 
 < Supported >   
   Cryptocurrency : ETH   
