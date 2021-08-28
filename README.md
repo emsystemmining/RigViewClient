@@ -1,6 +1,6 @@
 # RigViewClient
 RigViewClient is free software.
-https://github.com/emsystemmining/RigViewClient/raw/main/RigViewClient.zip
+https://github.com/emsystemmining/RigViewClient/releases
    
 <pre>
 << How to use >>
